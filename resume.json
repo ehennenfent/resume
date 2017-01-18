@@ -1,0 +1,27 @@
+{
+    "comment": "This version contains raw, verbose data for everything relevant to my resume. Actual production versions will rely only on a selected subset.",
+    "firstName": "Eric",
+    "lastName": "Hennenfent",
+    "email": "Eric.Hennenfent@gmail.com",
+    "website": "EricHennenfent.me",
+    "education": [
+        {
+            "institution": "University of Illinois at Urbana-Champaign",
+            "acronym": "UIUC",
+            "certification": "Bachelors of Computer Science",
+            "graduation": "May 2018 (expected)",
+            "selectedCourses": ["Data Structures & Algorithms", "Computer Systems Engineering", "Computer Security 2"]
+        },
+        {
+            "institution": "Illinois Mathematics and Science Academy",
+            "acronym": "IMSA",
+            "certification": "High School Diploma",
+            "graduation": "May 2015",
+            "selectedCourses": ["Computational Science", "Advanced Programming & Computer Science"]
+        }
+    ],
+    "experience": [],
+    "activities": [],
+    "speaking": [],
+    "competitions": []
+}
